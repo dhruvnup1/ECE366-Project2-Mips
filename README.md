@@ -9,9 +9,8 @@ Aaryan Mariselvam(652085863)
 * **Fibonacci.asm**
     - Dhruv -> setting up workflow, breaking down the problem into small chunks to simplify the problem. 
     - Aaryan -> coding done on local machine(for fibonacci), testing, verfication of correct outputs.
-* **Division_and_odd.asm**
+* **Division.asm**
     - Dhruv -> setting up workflow, splitting up division and odd, completing division using repeated subtraction method.
-    - Aaryan  -> completed isOdd function, implemented division function into isOdd. 
 * **Fibonacci_IsOdd.asm**
     - Currently not complete.
  
