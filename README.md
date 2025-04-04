@@ -10,9 +10,11 @@ Aaryan Mariselvam(652085863)
     - Dhruv -> setting up workflow, breaking down the problem into small chunks to simplify the problem. 
     - Aaryan -> coding done on local machine(for fibonacci), testing, verfication of correct outputs.
 * **Division.asm**
-    - Dhruv -> setting up workflow, splitting up division and odd, completing division using repeated subtraction method.
+    - Dhruv -> setting up the workflow, splitting up division and odd, completing division using the repeated subtraction method.
+* **Odd.asm**
+    - Aaryan -> By using the Division.asm file I was able to determine if the number given is odd. By comparing if the reminder is equal to 0 or 1.  
 * **Fibonacci_IsOdd.asm**
-    - Currently not complete.
+    - Aaryan -> By combining all the previous files essentially all I have to do is transfer the output of the Fibonacci to the input of the odd.asm. 
  
 
 ## QuickStart Guide:
